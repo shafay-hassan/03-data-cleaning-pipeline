@@ -1,4 +1,4 @@
-# data-cleaning-pipeline — Month 3
+# 03-data-cleaning-pipeline — Month 3
 
 Clean, validated pipeline for dummy Texas permits using Pydantic and Supabase. Handles messy county, trade, contractor and blocks invalid records that static inserts can't.
 
